@@ -21,14 +21,14 @@ The Dynamic README Generator is a sophisticated Node.js command-line application
 To establish a local copy of this project, follow these steps:
 
 1. Clone the repository to your local machine using SSH.
-```bash
-git clone <tdudi62>
+git clone <https://github.com/dudi62/Readme-Generator>
 2. Install the necessary dependencies by executing the following command in your terminal:
 npm install
+
 ## Usage
+[readme.webm](https://github.com/dudi62/Readme-Generator/assets/63518444/e0a6369a-5807-4e1c-adf7-8489a3163b15)
 
 To utilize the application, execute the following command in your terminal:
-```bash
 node index.js
 
 Respond to the prompted questions to provide detailed information about your project. The application will then dynamically generate a README file based on your responses.
@@ -40,10 +40,10 @@ This application relies on the following dependencies:
 - Node.js
 - Inquirer.js
 
-## License
+## Deployment 
 
-This project is protected under the MIT license.
+https://dudi62.github.io/Readme-Generator/
 
 ## Inquiries
 
-For any questions or concerns regarding the repository, please open an issue or contact me directly at <tdudek62@gmail.com>. You can find more of my work at [your-GitHub-username](https://github.com/tdudi62/).
+For any questions or concerns regarding the repository, please open an issue or contact me directly at <tdudek62@gmail.com>. You can find more of my work at (https://github.com/tdudi62/).
