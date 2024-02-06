@@ -46,4 +46,4 @@ https://dudi62.github.io/Readme-Generator/
 
 ## Inquiries
 
-For any questions or concerns regarding the repository, please open an issue or contact me directly at <tdudek62@gmail.com>. You can find more of my work at [your-GitHub-username](https://github.com/tdudi62/).
+For any questions or concerns regarding the repository, please open an issue or contact me directly at <tdudek62@gmail.com>. You can find more of my work at (https://github.com/tdudi62/).
